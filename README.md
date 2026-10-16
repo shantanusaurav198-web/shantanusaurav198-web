@@ -1,81 +1,75 @@
 <div align="center">
 
-# Hi, I'm Shantanu Saurav 👋
+# Shantanu Saurav
 
-### Computer Science Undergraduate | AI & Machine Learning | Data Analytics
+**Computer Science Undergraduate | Artificial Intelligence & Machine Learning | Data Analytics**
 
-I build practical projects with **Python, Machine Learning, LangChain, and data analytics**.  
-Currently strengthening my skills by building projects and learning how to turn data and AI concepts into useful applications.
+Building practical applications with Python, machine learning, LLMs, and data analysis.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-saurav-9a307326b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/shantanusaurav198-web)
+[LinkedIn](https://www.linkedin.com/in/shantanu-saurav-9a307326b/) · [GitHub](https://github.com/shantanusaurav198-web) · [Email](mailto:shantanusaurav198@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Profile
 
-- 🎓 Pursuing a **B.Tech in Computer Science and Engineering (Artificial Intelligence)** at ABES Institute of Technology (2023–2027).
-- 🤖 Interested in **Generative AI, LLM applications, AI agents, and Machine Learning**.
-- 📊 Also interested in **Data Analytics, exploratory data analysis, and data visualization**.
-- 🛠️ Learning by building projects, documenting my work, and improving my problem-solving skills.
-- 🎯 Open to relevant **AI/ML, Data Analytics, and Python internship opportunities**.
+I am pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence at ABES Institute of Technology (2023–2027). My interests include machine learning, LLM-based applications, AI agents, and data analytics.
 
-## 🧰 Skills & Tools
+I learn by building projects that apply these concepts to practical problems, from multi-agent research workflows to predictive modelling and exploratory data analysis.
 
-**Languages:** Python, SQL  
-**AI & Machine Learning:** Machine Learning, LLMs, LangChain, AI Agents, Prompt Engineering, RAG concepts  
-**Data Analysis:** Pandas, NumPy, Excel, Power BI, Matplotlib, Seaborn, EDA  
-**App Development:** Streamlit, Flask  
-**Databases:** MySQL, PostgreSQL  
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab
+## Technical Skills
 
-## 🚀 Featured Projects
+- **Programming:** Python, SQL
+- **AI & Machine Learning:** Machine Learning, Large Language Models (LLMs), LangChain, AI Agents, Prompt Engineering, Retrieval-Augmented Generation (RAG) concepts
+- **Data Analysis & Visualization:** Pandas, NumPy, Excel, Power BI, Matplotlib, Seaborn, Exploratory Data Analysis (EDA)
+- **Application Development:** Streamlit, Flask
+- **Databases:** MySQL, PostgreSQL
+- **Developer Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
-### 1. Multi-Agent AI Research System
-A LangChain-based research workflow designed around specialized agents for searching, reading, writing, and reviewing research content.
+## Selected Projects
 
-- **Focus:** LLM applications, agent orchestration, prompt engineering, web retrieval, Streamlit.
-- **Repository:** [View project](https://github.com/shantanusaurav198-web/Multi-Agent-AI-Research-System)
+### Multi-Agent AI Research System
+A research workflow built with LangChain and LLMs, organized around specialized Search, Reader, Writer, and Critic roles.
 
-### 2. IPL Score Prediction
-A machine learning project focused on predicting first-innings IPL scores from historical cricket data.
+**Areas covered:** Agent orchestration, prompt engineering, web retrieval, content processing, report generation, and Streamlit.
 
-- **Focus:** Data preprocessing, feature engineering, exploratory analysis, regression, model evaluation.
-- **Repository:** [View project](https://github.com/shantanusaurav198-web/ML-Based-IPL_Score_Predictor)
+[View repository](https://github.com/shantanusaurav198-web/Multi-Agent-AI-Research-System)
 
-### 3. Sales Data Analysis
-An exploratory data analysis project examining sales records to identify customer patterns and product trends.
+### IPL Score Prediction
+A machine learning project focused on predicting first-innings IPL scores from historical match data.
 
-- **Focus:** Data cleaning, Pandas, visualization, customer and product insights.
-- **Repository:** [View project](https://github.com/shantanusaurav198-web/EDA-Sales_data)
+**Areas covered:** Data preprocessing, exploratory data analysis, feature engineering, regression, and model evaluation.
 
-### 4. Confidence Intervals: How Accurate Is Your Sample?
-A statistics case study using the Titanic dataset to explore sampling, sample means, and confidence intervals.
+[View repository](https://github.com/shantanusaurav198-web/ML-Based-IPL_Score_Predictor)
 
-- **Focus:** Statistical reasoning, sampling, confidence intervals, Python, data analysis.
-- **Repository:** [View project](https://github.com/shantanusaurav198-web/confidence-intervals-how-accurate-is-your-sample)
+### Sales Data Analysis
+An exploratory analysis project examining sales records to identify customer patterns and product trends.
 
-### 5. Business Data Management Capstone
+**Areas covered:** Data cleaning, Pandas, data visualization, and customer and product analysis.
+
+[View repository](https://github.com/shantanusaurav198-web/EDA-Sales_data)
+
+### Confidence Intervals: How Accurate Is Your Sample?
+A statistical case study using the Titanic dataset to explore sampling and confidence intervals.
+
+**Areas covered:** Sampling, sample statistics, confidence intervals, and Python-based analysis.
+
+[View repository](https://github.com/shantanusaurav198-web/confidence-intervals-how-accurate-is-your-sample)
+
+### Business Data Management Capstone
 A capstone project completed as part of business data management coursework.
 
-- **Repository:** [View project](https://github.com/shantanusaurav198-web/Campstone-Business-Data-Management-BDM-Project-)
+[View repository](https://github.com/shantanusaurav198-web/Campstone-Business-Data-Management-BDM-Project-)
 
-## 📈 GitHub Activity
+## Education
 
-![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=shantanusaurav198-web&theme=github-compact)
+**ABES Institute of Technology** — Ghaziabad, Uttar Pradesh  
+B.Tech, Computer Science and Engineering (Artificial Intelligence)  
+2023–2027
 
-## 🤝 Connect With Me
+## Contact
 
 - **LinkedIn:** [linkedin.com/in/shantanu-saurav-9a307326b](https://www.linkedin.com/in/shantanu-saurav-9a307326b/)
+- **Email:** [shantanusaurav198@gmail.com](mailto:shantanusaurav198@gmail.com)
 - **GitHub:** [github.com/shantanusaurav198-web](https://github.com/shantanusaurav198-web)
-- **Email:** shantanusaurav198@gmail.com
-
----
-
-<div align="center">
-
-*Always learning, building, and improving one project at a time.*
-
-</div>
